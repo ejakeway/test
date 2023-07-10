@@ -1,4 +1,3 @@
-## Test heading 1 
 This is a test GitHub pages site. We would edit the content of this landing page directly in the README markdown file. However, do not use an h1 level heading!
 
 ### Subheading

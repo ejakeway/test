@@ -1,12 +1,13 @@
 title: This is my site title
-author:
-    company_name: Library of Congress
-# this appears in the footer
+author: Library of Congress staff
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is where the footer information could go? 
+  This is where the footer information could go. 
+  Questions? Contact LC-Labs@loc.gov 
+  View the Library's [Privacy Policy](https://loc.gov/legal).
+  View the [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 # Build settings
 

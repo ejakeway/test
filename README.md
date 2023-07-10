@@ -1,3 +1,4 @@
+### Could we use an h2 heading?
 This is a test GitHub pages site. We would edit the content of this landing page directly in the README markdown file. However, do not use an h1 level heading!
 
 ### Subheading

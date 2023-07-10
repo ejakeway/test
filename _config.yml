@@ -1,12 +1,12 @@
 title: This is my site title
 author:
-  name: "Eileen Jakeway Manchester on behalf of the Library of Congress"
-  email: "ejakeway@loc.gov"
+  name: Eileen J. Manchester
+  email: abc@email.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is where the footer information could go?
+  This is where the footer information could go? 
 
 # Build settings
 

@@ -1,5 +1,6 @@
 title: This is my site title
-company_name: Library of Congress
+author:
+    company_name: Library of Congress
 # this appears in the footer
 
 # The `>` after `description:` means to ignore line-breaks until next key.
